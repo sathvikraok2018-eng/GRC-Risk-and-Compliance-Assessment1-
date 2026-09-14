@@ -19,10 +19,14 @@ This project delivers a practical end-to-end Governance, Risk and Compliance (GR
 **Primary attack assests: Client SPII, Financial ledgers, web portal database and staff endpoints.
 
 **Key dat handled:
-    *Government ID Numbers (PAN,Aadhar,SSN)
-    *Income statemts and salary slips
-    *Bank statemets and Investemts reciepts
-    *Client pirtal login credential 
+   
+   *Government ID Numbers (PAN,Aadhar,SSN)
+
+   *Income statemts and salary slips
+ 
+   *Bank statemets and Investemts reciepts
+   
+   *Client pirtal login credential 
 
 
 
