@@ -29,6 +29,7 @@ This project delivers a practical end-to-end Governance, Risk and Compliance (GR
    *Client portal login credential 
 
 ##⚠️IDENTIFIED CYBERSECURITY RISKS (RISK=IMPACT SCORE * LIKELIHOOD SCORE)
+
 | Risk ID |   Risk Domain |    Description |    Likelihood |  |Impact    | Inherent Score | Trget Control |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ►RSK-01 | Web application security | Unauthenticated portal access/web upload vulnerabilties exposing client documents. | HIGH | HIGH | HIGH | Web app firewalls, Iput validation and security patching. |
