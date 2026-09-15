@@ -12,23 +12,17 @@ This project delivers a practical end-to-end Governance, Risk and Compliance (GR
 
 -------
 
-##🏢 FIRM CONTEXT AND DATA SCOPE 
+## 🏢FIRM CONTEXT AND DATA SCOPE 
+* Business model: Tax services integrated with web portal uploads for documents uploads, in-person consultation and service appointment.
+*  Primary attack assests: Client SPII, Financial ledgers, web portal database and staff endpoints.
 
-**Business model: Tax services integrated with web portal uploads for documents uploads, in-person consultation and service appointment.
+### Key data handled:
+* *Government ID Numbers (PAN,Aadhar,SSN)
+* *Income statemts and salary slips
+* *Bank statemets and Investemts reciepts
+* *Client portal login credential 
 
-**Primary attack assests: Client SPII, Financial ledgers, web portal database and staff endpoints.
-
-**Key data handled:
-   
-   *Government ID Numbers (PAN,Aadhar,SSN)
-
-   *Income statemts and salary slips
- 
-   *Bank statemets and Investemts reciepts
-   
-   *Client portal login credential 
-
-
+-------
 
 ## ⚠️ IDENTIFIED CYBERSECURITY RISKS (RISK=LIKELIHOOD SCORE * IMPACT SCORE)
 
@@ -40,7 +34,8 @@ This project delivers a practical end-to-end Governance, Risk and Compliance (GR
 | RSK-04 | Operational continuity | Phishing led Ransomware causing operational halt during business season | Medium | Critical | Critical | Establishing Endpoint Detection Response (EDR), Implementing immutable backups and anti phishing training |
 | RSK-05 | Supply chain | Intercepted filings via third party tax software and weak APIs | Low | High | Medium | Third Party Risk Management (TPRM) and OAuth scoping |
 
-
+-------
+ 
  ## Framework Mapping and Summary
 
 Identified risks and proposed controls are benchmarked against standard global cybersecurity frameworks:
