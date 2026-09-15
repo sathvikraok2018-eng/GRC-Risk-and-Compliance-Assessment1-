@@ -41,4 +41,21 @@ This project delivers a practical end-to-end Governance, Risk and Compliance (GR
 | RSK-05 | Supply chain | Intercepted filings via third party tax software and weak APIs | Low | High | Medium | Third Party Risk Management (TPRM) and OAuth scoping |
 
 
+ ## Framework Mapping and Summary
+
+Identified risks and proposed controls are benchmarked against standard global cybersecurity frameworks:
+
+### NIST CSF 2.0 Categories
+* **Govern (GV):** Organizational context, risk strategy, and policy establishment
+* **Identify (ID):** Asset management, risk assessment, and improvement planning
+* **Protect (PR):** Identity management, access control, awareness training, and data security
+* **Respond (RE):** Incident management, analysis, mitigation, and communication
+* **Recover (RC):** Restoration execution and post-incident reviews
+
+### ISO/IEC 27001:2022 Annex A Controls
+* **A.5 Organizational Controls:** Policies, roles, threat intelligence, and information security in project management
+* **A.6 People Controls:** Screening, terms of employment, awareness, and remote working
+* **A.7 Physical Controls:** Physical security perimeters, entry controls, equipment protection, and cabling security
+* **A.8 Technological Controls:** Access control, privileged access, malware protection, vulnerability management, and logging
+
 
