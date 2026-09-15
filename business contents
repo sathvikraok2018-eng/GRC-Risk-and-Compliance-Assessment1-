@@ -1,1 +1,8 @@
+Business model: Tax services integrated with web portal uploads for documents uploads, in-person consultation and service appointment.
+Primary attack assests: Client SPII, Financial ledgers, web portal database and staff endpoints.
+Key data handled:
+*Government ID Numbers (PAN,Aadhar,SSN)
+*Income statemts and salary slips
+*Bank statemets and Investemts reciepts
+*Client portal login credential
 
